@@ -11,7 +11,6 @@ public class Main {
         // /    - Root dir
         // MacOS, Linux  - /
         // Windows       - \
-
         System.out.println("-------------------------------------------------------------------");
         System.out.println("System file separator: " + System.getProperty("file.separator"));
         System.out.println("System file separator: " + File.separator);
